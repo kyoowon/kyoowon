@@ -1,8 +1,5 @@
 # Hi there.👋 I'm kyuWon lee!
 
-## If you're curious, check it out here.
-https://www.notion.so/Hello-this-is-my-Profile-8f9d5252d18b4230acee37ca783c71d6
-
 <!--
 **kyoowon/kyoowon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
