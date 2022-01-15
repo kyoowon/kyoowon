@@ -3,7 +3,7 @@
 ![cover](./img/cover.png)
 
 
-# Bolg
+# Blog
 https://kyulee.tistory.com/
 
 <!--
