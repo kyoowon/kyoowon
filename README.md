@@ -2,6 +2,10 @@
 ![follower](https://img.shields.io/github/followers/kyoowon?style=social)
 ![cover](./img/cover.png)
 
+
+# Bolg
+https://kyulee.tistory.com/
+
 <!--
 **kyoowon/kyoowon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
