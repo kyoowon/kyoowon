@@ -3,8 +3,14 @@
 ![cover](./img/cover.png)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoowon)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # Blog
 https://kyulee.tistory.com/
+
+
+
 
 <!--
 **kyoowon/kyoowon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
