@@ -3,7 +3,7 @@
 ![cover](./img/cover.png)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoowon)](https://github.com/anuraghazra/github-readme-stats)
+[![kyoowon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoowon)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Blog
