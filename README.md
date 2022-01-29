@@ -1,13 +1,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyoowon&count_bg=%2372AAC6&title_bg=%23535050&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![follower](https://img.shields.io/github/followers/kyoowon?style=social)
-![cover](./img/cover.png)
+![[Foo]("./img/cover.png")](https://kyoowon.github.io/profiles/)
 
 
 [![kyoowon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoowon)](https://github.com/anuraghazra/github-readme-stats)
 
-
-# Blog
-https://kyulee.tistory.com/
 
 
 
