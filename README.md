@@ -1,12 +1,11 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyoowon&count_bg=%2372AAC6&title_bg=%23535050&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![follower](https://img.shields.io/github/followers/kyoowon?style=social)
-[![Foo](https://github.com/kyoowon/kyoowon/blob/main/img/cover.png)](https://kyoowon.github.io/profiles/)
-[![kyoowon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyoowon)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://kyoowon.github.io/profiles/"><img width="96%" src="https://github.com/kyoowon/kyoowon/blob/main/img/cover.png"/></a>
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kyoowon"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoowon&layout=compact"/>
 
-
-
-
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <!--
 **kyoowon/kyoowon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
