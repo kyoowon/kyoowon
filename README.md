@@ -7,7 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-# My Notion posts
+# 📚 My Notion posts
 <!-- BLOG-POST-LIST:START -->
 - [에어팟 한쪽만 들리는 경우](https://kyulee.tistory.com/entry/Macbook-%EC%97%90%EC%96%B4%ED%8F%B0-%ED%95%9C%EC%AA%BD%EB%A7%8C%EB%93%A4%EB%A6%AC%EB%8A%94-%EA%B2%BD%EC%9A%B0)
 - [Linux 소켓 &lpar;socket&rpar;](https://kyulee.tistory.com/entry/Linux-%EC%86%8C%EC%BC%93-socket)
