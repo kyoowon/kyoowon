@@ -9,6 +9,11 @@
 
 # My Notion posts
 <!-- BLOG-POST-LIST:START -->
+- [에어팟 한쪽만 들리는 경우](https://kyulee.tistory.com/entry/Macbook-%EC%97%90%EC%96%B4%ED%8F%B0-%ED%95%9C%EC%AA%BD%EB%A7%8C%EB%93%A4%EB%A6%AC%EB%8A%94-%EA%B2%BD%EC%9A%B0)
+- [Linux 소켓 &lpar;socket&rpar;](https://kyulee.tistory.com/entry/Linux-%EC%86%8C%EC%BC%93-socket)
+- [Local 친구가 추천해준 Winter 시티투어&lpar;2&rpar; - 청주 데이트 코스](https://kyulee.tistory.com/entry/Local-%EC%B9%9C%EA%B5%AC%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A4%80-Winter-%EC%8B%9C%ED%8B%B0%ED%88%AC%EC%96%B42-%EC%B2%AD%EC%A3%BC-%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%BD%94%EC%8A%A4)
+- [Web - 웹 서버 &lpar;Web Server&rpar;](https://kyulee.tistory.com/entry/%EC%9B%B9-%EC%84%9C%EB%B2%84-Web-Server)
+- [Local 친구가 추천해준 Winter 시티투어&lpar;1&rpar; - 청주 데이트 코스](https://kyulee.tistory.com/entry/Local-%EC%B9%9C%EA%B5%AC%EA%B0%80-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A4%80-Winter-%EC%B2%AD%EC%A3%BC-%ED%88%AC%EC%96%B4)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
