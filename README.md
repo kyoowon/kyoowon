@@ -22,8 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML         0 secs          ███████████████▓░░░░░░░░░   63.23 %
-TypeScript   0 secs          █████████▒░░░░░░░░░░░░░░░   36.77 %
+YAML   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
