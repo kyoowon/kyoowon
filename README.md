@@ -11,11 +11,11 @@
 
 ## 📚 My Latest Notion posts
 <!-- BLOG-POST-LIST:START -->
+- [Node &amp; typeScript &lpar;Auth&rpar; &lpar;0&rpar;](https://kyulee.tistory.com/entry/Node-TypeScrpit-Auth)
 - [CDN &lpar; Github &amp; jsdelivr &rpar;](https://kyulee.tistory.com/entry/CDN-Github-jsdelivr)
 - [블로그 운영 관리 &amp; 자동화 &lpar;CMS&rpar;](https://kyulee.tistory.com/entry/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9A%B4%EC%98%81-%EA%B4%80%EB%A6%AC-%EC%9E%90%EB%8F%99%ED%99%94-CMS)
 - [쉽게 나의 페이지와 이메일 연결 &lpar; Email.js &rpar;](https://kyulee.tistory.com/entry/Emailjs)
 - [React - Github page 배포 &lpar;github.io&rpar;](https://kyulee.tistory.com/entry/React-Github-page-%EB%B0%B0%ED%8F%AC-githubio)
-- [에어팟 한쪽만 들리는 경우 &lpar; Airpods &rpar;](https://kyulee.tistory.com/entry/Macbook-%EC%97%90%EC%96%B4%ED%8F%B0-%ED%95%9C%EC%AA%BD%EB%A7%8C%EB%93%A4%EB%A6%AC%EB%8A%94-%EA%B2%BD%EC%9A%B0)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✏️ Weekly development breakdown
