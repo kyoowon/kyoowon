@@ -11,11 +11,11 @@
 
 ## 📚 My Latest Notion posts
 <!-- BLOG-POST-LIST:START -->
+- [React](https://kyulee.tistory.com/entry/React)
 - [Auth - bcrypt &lpar;2&rpar;](https://kyulee.tistory.com/entry/Auth-bcrypt-2)
 - [Auth - mongoDB &amp; Postman &lpar;1&rpar;](https://kyulee.tistory.com/entry/Auth-mongoDB-Postman-1)
 - [Auth - Node &amp; typeScript &lpar;0&rpar;](https://kyulee.tistory.com/entry/Node-TypeScrpit-Auth)
 - [CDN &lpar; Github &amp; jsdelivr &rpar;](https://kyulee.tistory.com/entry/CDN-Github-jsdelivr)
-- [블로그 운영 관리 &amp; 자동화 &lpar;CMS&rpar;](https://kyulee.tistory.com/entry/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9A%B4%EC%98%81-%EA%B4%80%EB%A6%AC-%EC%9E%90%EB%8F%99%ED%99%94-CMS)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✏️ Weekly development breakdown
