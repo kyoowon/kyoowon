@@ -11,11 +11,11 @@
 
 ## 📚 My Latest Notion posts
 <!-- BLOG-POST-LIST:START -->
+- [npm  npx  yarn](https://kyulee.tistory.com/entry/npm-npx-yarn)
 - [Create React App](https://kyulee.tistory.com/entry/Create-React-App)
 - [React](https://kyulee.tistory.com/entry/React)
 - [Auth - bcrypt &lpar;2&rpar;](https://kyulee.tistory.com/entry/Auth-bcrypt-2)
 - [Auth - mongoDB &amp; Postman &lpar;1&rpar;](https://kyulee.tistory.com/entry/Auth-mongoDB-Postman-1)
-- [Auth - Node &amp; typeScript &lpar;0&rpar;](https://kyulee.tistory.com/entry/Node-TypeScrpit-Auth)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✏️ Weekly development breakdown
