@@ -15,7 +15,7 @@
 - [server/client 동시 실행&lpar;Concurrently&rpar;](https://kyulee.tistory.com/entry/server-client-%EB%8F%99%EC%8B%9C-%EC%8B%A4%ED%96%89-Concurrently)
 - [npm  npx  yarn](https://kyulee.tistory.com/entry/npm-npx-yarn)
 - [React](https://kyulee.tistory.com/entry/React)
-- [Auth &lpar;2&rpar; - bcrypt](https://kyulee.tistory.com/entry/Auth-bcrypt-2)
+- [Auth / register &lpar;2&rpar; - bcrypt](https://kyulee.tistory.com/entry/Auth-bcrypt-2)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✏️ Weekly development breakdown
