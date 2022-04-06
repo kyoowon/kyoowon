@@ -11,11 +11,11 @@
 
 ## 📚 My Latest Notion posts
 <!-- BLOG-POST-LIST:START -->
+- [Auth &lpar;4&rpar; - Auth route](https://kyulee.tistory.com/entry/Auth-4-Auth-route)
 - [Auth / login &lpar;3&rpar; - JWT &amp; cookie](https://kyulee.tistory.com/entry/Auth-login-3-JWT-cookie)
 - [TypeScript &amp; CRA - http-proxy-middleware 이슈](https://kyulee.tistory.com/entry/TypeScript-http-proxy-middleware-%EC%9D%B4%EC%8A%88)
 - [server/client 동시 실행&lpar;Concurrently&rpar;](https://kyulee.tistory.com/entry/server-client-%EB%8F%99%EC%8B%9C-%EC%8B%A4%ED%96%89-Concurrently)
 - [npm  npx  yarn](https://kyulee.tistory.com/entry/npm-npx-yarn)
-- [React](https://kyulee.tistory.com/entry/React)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✏️ Weekly development breakdown
