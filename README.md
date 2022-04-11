@@ -31,7 +31,7 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+[![Waka Readme](https://github.com/kyoowon/kyoowon/actions/workflows/wakatime.yml/badge.svg)](https://github.com/kyoowon/kyoowon/actions/workflows/wakatime.yml)
 <!--
 **kyoowon/kyoowon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
