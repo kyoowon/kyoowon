@@ -9,7 +9,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-## 📚 My Latest Notion posts
+## 📚 My Latest Notion posts 
 <!-- BLOG-POST-LIST:START -->
 - [React Component 생명주기 &lpar;React life Cycle&rpar;](https://kyulee.tistory.com/entry/React-Component-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-React-life-Cycle)
 - [Auth / logout &lpar;5&rpar;](https://kyulee.tistory.com/entry/Auth-logout-5)
@@ -17,8 +17,8 @@
 - [Auth / login &lpar;3&rpar; - JWT &amp; cookie](https://kyulee.tistory.com/entry/Auth-login-3-JWT-cookie)
 - [TypeScript &amp; CRA - http-proxy-middleware 이슈](https://kyulee.tistory.com/entry/TypeScript-http-proxy-middleware-%EC%9D%B4%EC%8A%88)
 <!-- BLOG-POST-LIST:END -->
-
-## ✏️ Weekly development breakdown
+[![Latest blog post workflow](https://github.com/kyoowon/kyoowon/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/kyoowon/kyoowon/actions/workflows/blog-post-workflow.yml)
+## ✏️ Weekly development breakdown 
 <!--START_SECTION:waka-->
 
 ```text
