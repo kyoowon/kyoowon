@@ -22,7 +22,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Stylus       37 mins         █████████████▓░░░░░░░░░░░   54.83 %
+Markdown     11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+Pug          6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+CSS          5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+JavaScript   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 %
+XML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
