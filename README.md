@@ -20,7 +20,9 @@
 [![Latest blog post workflow](https://github.com/kyoowon/kyoowon/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/kyoowon/kyoowon/actions/workflows/blog-post-workflow.yml)
 ## ✏️ Weekly development breakdown 
 <!--START_SECTION:waka-->
+```text
 
+```
 <!--END_SECTION:waka-->
 [![Waka Readme](https://github.com/kyoowon/kyoowon/actions/workflows/wakatime.yml/badge.svg)](https://github.com/kyoowon/kyoowon/actions/workflows/wakatime.yml)
 <!--
