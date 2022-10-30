@@ -20,7 +20,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java   3 hrs 7 mins    █████████████████████████   100.00 %
+Java   2 hrs 42 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
